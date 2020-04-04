@@ -4,6 +4,6 @@ class Artist
   
   def initialize(name)
     binding.pry
-    # @name = name
+    @name = name
   end 
 end 
