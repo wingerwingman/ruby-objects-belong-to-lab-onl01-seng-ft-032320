@@ -1,4 +1,4 @@
 def Post 
-  # attr_accessor :post, :author
+  attr_accessor :post, :author, :title
 end
   
